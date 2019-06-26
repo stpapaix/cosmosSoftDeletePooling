@@ -1,2 +1,2 @@
 # cosmosSoftDeletePooling
-Pool Chagefeed to capture soft deletion
+Pool Changefeed to capture soft deletion
