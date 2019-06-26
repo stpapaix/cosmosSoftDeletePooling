@@ -1,0 +1,14 @@
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\bin\Debug\netcoreapp2.2\softDeletePooling.deps.json
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\bin\Debug\netcoreapp2.2\softDeletePooling.runtimeconfig.json
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\bin\Debug\netcoreapp2.2\softDeletePooling.runtimeconfig.dev.json
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\bin\Debug\netcoreapp2.2\softDeletePooling.dll
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\bin\Debug\netcoreapp2.2\softDeletePooling.pdb
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\obj\Debug\netcoreapp2.2\softDeletePooling.csprojAssemblyReference.cache
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\obj\Debug\netcoreapp2.2\softDeletePooling.csproj.CoreCompileInputs.cache
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\obj\Debug\netcoreapp2.2\softDeletePooling.AssemblyInfoInputs.cache
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\obj\Debug\netcoreapp2.2\softDeletePooling.AssemblyInfo.cs
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\obj\Debug\netcoreapp2.2\softDeletePooling.dll
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\obj\Debug\netcoreapp2.2\softDeletePooling.pdb
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\bin\Debug\netcoreapp2.2\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\bin\Debug\netcoreapp2.2\Cosmos.CRTCompat.dll
+C:\Users\stpapaix\OneDrive - Microsoft\dev\vscode\softDeletePooling\bin\Debug\netcoreapp2.2\softDeletePooling.dll.config
